@@ -18,7 +18,7 @@ stock_code = input("Enter Stock Code: ").upper()
 stock_interval = '1d'
 stock_events = 'history'
 
-csv_url = "https://query1.finance.yahoo.com/v7/finance/download/" + stock_code + ".NS?period1=" + start_date + "&period2=" + end_date + "&interval=" + stock_interval + "&events=" + stock_events + "&includeAdjustedClose=true"
+csv_url = "https://query1.finance.yahoo.com/v7/finance/download/" + stock_code + "?period1=" + start_date + "&period2=" + end_date + "&interval=" + stock_interval + "&events=" + stock_events + "&includeAdjustedClose=true"
 print(csv_url)
 stock_data = pd.read_csv(csv_url)
 # Remove null values
