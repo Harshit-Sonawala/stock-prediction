@@ -19,7 +19,7 @@ stock_interval = '1d'
 stock_events = 'history'
 
 csv_url = "https://query1.finance.yahoo.com/v7/finance/download/" + stock_code + ".NS?period1=" + start_date + "&period2=" + end_date + "&interval=" + stock_interval + "&events=" + stock_events + "&includeAdjustedClose=true"
-
+print(csv_url)
 stock_data = pd.read_csv(csv_url)
 # Remove null values
 stock_data = stock_data.dropna()
@@ -52,7 +52,6 @@ x_train, y_train = np.array(x_train), np.array(y_train)
 
 # Reshape the data
 x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1], 1))
-print(x_train.shape)
 
 # Build the LSTM Model
 model = Sequential()
@@ -98,7 +97,7 @@ valid['Predictions'] = predictions
 
 # Visualize
 plt.figure(figsize=(14,6))
-plt.title(f"Model for {stock_code}.NS:")
+plt.title(f"Model for {stock_code}:")
 plt.xlabel('Number of Days', fontsize = 18)
 plt.ylabel('Close Price (INR)', fontsize = 18)
 plt.plot(train['Close'])
