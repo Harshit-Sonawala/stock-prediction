@@ -10,9 +10,8 @@ plt.style.use('fivethirtyeight')
 
 today = datetime.datetime.today()
 end_date = str(int(today.timestamp()))
-time_delta = datetime.timedelta(days = 365)
+time_delta = datetime.timedelta(days = 900)
 start_date = str(int((today - time_delta).timestamp()))
-
 
 stock_code = input("Enter Stock Code: ").upper()
 stock_interval = '1d'
