@@ -10,8 +10,8 @@ from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.preprocessing import MinMaxScaler
-from keras.models import Sequential
-from keras.layers import Dense, LSTM
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, LSTM
 
 st.set_page_config(page_title = 'Stock Prediction App')
 st.markdown(
