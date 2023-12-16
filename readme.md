@@ -1,6 +1,24 @@
-### Stock Prediction App ###
-A Python, ML project to predict stock prices based on historical data.  
-  
-3-7-21: added exponential moving avg calculation
+# Stock Prediction App #
+A Web application created using Python, StreamLit, TensorFlow, and BeautifulSoup.
 
-!Work in progress!
+Display and plot relevant historical analytics along with indicators such as Exponential Moving Average and Relative Strength Index for an entered stock ticker.
+
+### Screenshots: ###
+- - - -
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image1.png?raw=true" width="400"/>
+
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image2.png?raw=true" width="400"/>
+
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image3.png?raw=true" width="400"/>
+
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image4.png?raw=true" width="400"/>
+
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image5.png?raw=true" width="400"/>
+
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image6.png?raw=true" width="400"/>
+
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image7.png?raw=true" width="400"/>
+
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image8.png?raw=true" width="400"/>
+
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image9.png?raw=true" width="400"/>
