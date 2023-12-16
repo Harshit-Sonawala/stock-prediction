@@ -5,20 +5,20 @@ Display and plot relevant historical analytics along with indicators such as Exp
 
 ### Screenshots: ###
 - - - -
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image1.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image1.png?raw=true" width="800"/>
 
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image2.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image2.png?raw=true" width="800"/>
 
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image3.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image3.png?raw=true" width="800"/>
 
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image4.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image4.png?raw=true" width="800"/>
 
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image5.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image5.png?raw=true" width="800"/>
 
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image6.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image6.png?raw=true" width="800"/>
 
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image7.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image7.png?raw=true" width="800"/>
 
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image8.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image8.png?raw=true" width="800"/>
 
-<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image9.png?raw=true" width="400"/>
+<img src="https://github.com/Harshit-Sonawala/stock-prediction/blob/master/screenshots/image9.png?raw=true" width="800"/>
